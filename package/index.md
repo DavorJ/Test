@@ -1,3 +1,3 @@
 ---
-redirect_to: "/package/docs/"
+redirect_to: "/docs/"
 ---

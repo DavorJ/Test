@@ -1,3 +1,1 @@
----
-redirect_to: "/package/docs/"
----
+Test README

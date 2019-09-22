@@ -12,4 +12,5 @@ License: What license it uses
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
-url: https://github.com/DavorJ/Test/tree/master/package, https://davorj.github.io/Test/package/docs
+URL: https://github.com/DavorJ/Test/tree/master/package, https://davorj.github.io/Test/package/docs
+BugReports: https://github.com/DavorJ/Test/issues
